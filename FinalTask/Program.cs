@@ -1,4 +1,4 @@
-﻿﻿//FinalTask 1 sq .
+﻿﻿//FinalTask 1 четверть.
 
 #region --- 00. Configuration ---
 Console.Clear();
